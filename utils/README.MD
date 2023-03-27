@@ -1,6 +1,6 @@
 # Tugas 1 - Data Mining Scraper (depok news)
 
-`tugas1`
+`tugas1` by Mochammad Alvian Kosim - 119203001
 
 ## Running locally
 

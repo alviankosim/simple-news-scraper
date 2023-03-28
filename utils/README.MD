@@ -1,6 +1,6 @@
-# simple news scraper
+# Simple News Scraper
 
-node js simple scraper for berita.depok.go.id
+a node js simple scraper for berita.depok.go.id using axios and cheerio.
 
 ## Reminder
 

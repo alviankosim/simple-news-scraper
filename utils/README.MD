@@ -1,6 +1,10 @@
-# Tugas 1 - Data Mining Scraper (depok news)
+# simple news scraper
 
-`tugas1` by Mochammad Alvian Kosim - 119203001
+node js simple scraper for berita.depok.go.id
+
+## Reminder
+
+as part of netiquette, you should check for any website's robots.txt that will be scraped. For example, berita.depok.go.id/robots.txt allows us (scraper) to scrape their website by not mentioning any disallow paths.
 
 ## Running locally
 
